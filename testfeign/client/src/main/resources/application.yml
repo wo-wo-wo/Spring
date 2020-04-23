@@ -1,0 +1,6 @@
+server:
+  port: 9991
+remote:
+  service:
+    name: service
+    ip: 30.40.64.76:9992
