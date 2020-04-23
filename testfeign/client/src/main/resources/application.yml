@@ -3,4 +3,4 @@ server:
 remote:
   service:
     name: service
-    ip: 30.40.64.76:9992
+    ip: localhost:9992
