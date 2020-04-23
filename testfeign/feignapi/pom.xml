@@ -8,10 +8,10 @@
         <version>2.2.6.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.fegin</groupId>
-    <artifactId>feginapi</artifactId>
+    <groupId>com.feign</groupId>
+    <artifactId>feignapi</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>feginapi</name>
+    <name>feignapi</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

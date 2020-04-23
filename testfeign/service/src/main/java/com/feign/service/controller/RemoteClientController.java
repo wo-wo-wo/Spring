@@ -1,6 +1,6 @@
 package com.feign.service.controller;
 
-import com.fegin.feginapi.api.FeignApi;
+import com.feign.feignapi.api.FeignApi;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

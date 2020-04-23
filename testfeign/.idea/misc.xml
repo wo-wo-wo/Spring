@@ -8,7 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/client/pom.xml" />
         <option value="$PROJECT_DIR$/service/pom.xml" />
-        <option value="$PROJECT_DIR$/feginapi/pom.xml" />
+        <option value="$PROJECT_DIR$/feignapi/pom.xml" />
       </list>
     </option>
   </component>

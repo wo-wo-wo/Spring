@@ -1,6 +1,6 @@
 package com.fegin.client.controller;
 
-import com.fegin.feginapi.api.RemoteApi;
+import com.feign.feignapi.api.RemoteApi;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

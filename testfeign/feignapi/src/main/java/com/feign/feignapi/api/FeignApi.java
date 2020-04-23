@@ -1,4 +1,4 @@
-package com.fegin.feginapi.api;
+package com.feign.feignapi.api;
 
 import org.springframework.web.bind.annotation.GetMapping;
 
