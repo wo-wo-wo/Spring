@@ -13,3 +13,9 @@
 -- 返回结果: 成功远程到服务端了
 
 -- 网关服务请求地址 localhost:9993/client/getLocal 会请求到client客户端的getLocal接口
+
+
+ps:网关服务参考文档<br>
+ #####http://www.ityouknow.com/springcloud/2018/12/12/spring-cloud-gateway-start.html
+ #####https://github.com/spring-cloud/spring-cloud-gateway
+ #####https://spring.io/projects/spring-cloud-gateway#samples
