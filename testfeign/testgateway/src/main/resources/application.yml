@@ -1,0 +1,13 @@
+server:
+  port: 9993
+spring:
+  cloud:
+    gateway:
+      routes:
+      - id: client
+        uri: http://localhost:9991
+        predicates:
+        - Path=/client/getLocal
+
+
+

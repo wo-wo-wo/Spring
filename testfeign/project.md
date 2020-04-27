@@ -1,6 +1,7 @@
 -- 项目client为客户端<br>
 -- feginapi为一个对外的api服务<br>
--- service 为服务端
+-- service 为服务端<br>
+-- gateway 网关服务<br>
 
 -- 实现思路<br>
 通过客户端--发起请求到服务端，其中依赖过feginapi项目最终返回结果<br>

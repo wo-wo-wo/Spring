@@ -14,16 +14,16 @@ public class ClientController {
     private RemoteApi remoteApi;
 
     @GetMapping("getRequestService")
-    public  String getRequestService(){
+    public String getRequestService() {
 
-      return   remoteApi.helloWorld();
+        return remoteApi.helloWorld();
 
     }
 
 
     @GetMapping("getLocal")
-    public String getLocal(){
-
+    public String getLocal() {
+        System.err.println("通过网关调用成功了");
         return "本地调用成功了";
     }
 
