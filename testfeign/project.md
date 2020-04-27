@@ -11,3 +11,5 @@
 
 -- 请求地址：localhost:9991/client/getRequestService<br>
 -- 返回结果: 成功远程到服务端了
+
+-- 网关服务请求地址 localhost:9993/client/getLocal 会请求到client客户端的getLocal接口
