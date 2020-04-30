@@ -8,6 +8,12 @@ spring:
         uri: http://localhost:9991
         predicates:
         - Path=/client/getLocal
-
-
+logging:
+  level:
+    org.springframework.cloud.gateway: TRACE
+    org.springframework.http.server.reactive: DEBUG
+    ## org.springframework.web.reactive: DEBUG
+   ## reactor.ipc.netty: DEBUG
+   ## reactor.netty: DEBUG
+management.endpoints.web.exposure.include: '*'
 
