@@ -72,7 +72,7 @@
 			<dependency>
 			  <groupId>com.google.guava</groupId>
 			  <artifactId>guava</artifactId>
-			  <version>27.0.1-jre</version>
+			  <version>29.0-jre</version>
 			</dependency>
 			
         <!-- 自动部署，前提是要配合打包插件 -->
